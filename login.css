@@ -1,0 +1,86 @@
+body{
+    background-image: url(https://33.media.tumblr.com/97cf6e13d4606a3119895e83159c80f8/tumblr_ntt6znpSie1shpedgo1_r1_540.gif);
+    color: white;
+}
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.border{
+     
+    background-color:gray;
+    padding: 20px;
+    margin-top: 160px;
+    margin-left: 80px;
+    margin-right: 80px;
+    
+  
+    
+    
+}
+form{
+    text-align: center;
+    color: white;
+
+}
+.form{
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ 
+.form .gen{
+    display: flex;
+    position: absolute;
+    left: 40%;
+    justify-items: center;
+    align-items: center;
+}
+
+
+label{
+    display: flex;
+    justify-content:center;
+    align-content: center;
+    
+}
+input{
+    margin-left: 20px;
+}
+#sub button{
+    background-color: lightgreen;
+    color: red;
+    border-radius: 5px;
+    height: 40px;
+    width: 90px;
+}
+#sub button:hover{
+    color: black;
+    cursor: pointer;
+
+}
+.reset button{
+    background-color: lightgreen;
+    color: red;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 21px;
+    height: 40px;
+    width: 90px;
+}
+.reset button:hover{
+    color: black;
+    cursor: pointer;
+
+}
+.login{
+    font-size: 20px;
+    
+
+}
+
