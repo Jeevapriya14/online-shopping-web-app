@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+a{
+    padding-left: 100px;
+    padding-top: 50px;
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-color: maroon;
+}
+img{
+    padding-left: 20px;
+}
